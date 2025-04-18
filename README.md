@@ -4,9 +4,9 @@
 
 <div align="center">
 
-    [![Paper](https://img.shields.io/badge/Paper-CIC2013-blue)](https://doi.org/10.2352/CIC.2013.21.1.art00046)
-    [![SRD](https://img.shields.io/badge/Dataset-SRD-%23cda6c3)](https://www2.cs.sfu.ca/~colour/data/colour_constancy_synthetic_test_data/index.html)
-    [![CSS](https://img.shields.io/badge/Dataset-CSS-%23cda6c3)](https://www2.cs.sfu.ca/~colour/data2/DRONE-Dataset/)
+[![Paper](https://img.shields.io/badge/Paper-CIC2013-blue)](https://doi.org/10.2352/CIC.2013.21.1.art00046)
+[![SRD](https://img.shields.io/badge/Dataset-SRD-%23cda6c3)](https://www2.cs.sfu.ca/~colour/data/colour_constancy_synthetic_test_data/index.html)
+[![CSS](https://img.shields.io/badge/Dataset-CSS-%23cda6c3)](https://www2.cs.sfu.ca/~colour/data2/DRONE-Dataset/)
 
 </div>
 
@@ -32,6 +32,6 @@ Inpsired by Ref. [1], I try to check how much accuracy a linear 3$\times3$ matri
 
 
 ## Reference
-[1] Jon S. McElvain, Walter Gish, "Camera Color Correction Using Two-Dimensional Transforms"  in Proc. IS&T 21st Color and Imaging Conf.,  2013,  pp 250 - 256.
-[2] Barnard, K., Martin, L., Funt, B. and Coath, A., A data set for color research. Color Res. Appl., 27, 2002 : 147-151.
-[3] Hoda Aghaei, Brian Funt, "A Flying Gray Ball Multi-illuminant Image Dataset for Color Research"  in Journal of Imaging Science and Technology,  2020,  pp 050411-1 - 050411-8.
+[1] Jon S. McElvain, Walter Gish, "Camera Color Correction Using Two-Dimensional Transforms"  in Proc. IS&T 21st Color and Imaging Conf.,  2013,  pp 250 - 256.<br>
+[2] Barnard, K., Martin, L., Funt, B. and Coath, A., A data set for color research. Color Res. Appl., 27, 2002 : 147-151.<br>
+[3] Hoda Aghaei, Brian Funt, "A Flying Gray Ball Multi-illuminant Image Dataset for Color Research"  in Journal of Imaging Science and Technology,  2020,  pp 050411-1 - 050411-8. <br>
