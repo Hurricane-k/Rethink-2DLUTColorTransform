@@ -21,6 +21,7 @@ Inpsired by Ref. [1], I try to check how much accuracy a linear 3$\times3$ matri
 ### Prerequisite
 1. Python == 3.9.18 or higher (finished and tested on Python 3.9.18)
 2. color-sciecne == 0.4.4
+3. RUN `ColorTransformation2DLUT.ipynb`.
 
 ### Results
 1. calculate naive RGB responses (in device-dependent space defined by CSS) at 3200K blackbody radiance (typicall indoor illuminant).
